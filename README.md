@@ -3,6 +3,13 @@
 This repo will be used to display miscellaneous analyses.
 
 
+## Analysing a SaaS Company
+
+This analysis was conducted to look for interesting and/or concerning trends given the monthly revenue, subscriptions, marketing, and sales staff figures of a fictitious SaaS company. 
+
+[Link to analysis](https://github.com/mpiccirilli/Misc/blob/master/SaaS_Company_Analysis.ipynb)
+
+
 ## Reducing Accidents in Brooklyn
 
 This analysis was conducted to explore ideas for reducing accidents in Brooklyn. 
